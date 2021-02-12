@@ -1,9 +1,15 @@
 -------------------------------------------------------------------
-Mon Feb 10 16:56:52 UTC 2021 - Stefan Schubert <schubi@suse.de
+Fri Feb 12 14:46:19 UTC 2021 - Stefan Schubert <schubi@suse.de
 
 - Logging all available product information into directory
   /var/log/YaST2/installation_info. This should help for evaluating the
   cause of e.g. bsc#1180888, bsc#1180908, bsc#1178688.
+- 4.3.56
+
+-------------------------------------------------------------------  
+Fri Feb 12 13:46:19 UTC 2021 - Ancor Gonzalez Sosa <ancor@suse.com>
+
+- Fixed bug introduced while adding auto wrapping (bsc#1179893)
 - 4.3.55
 
 -------------------------------------------------------------------
